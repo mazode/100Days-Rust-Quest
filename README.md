@@ -7,3 +7,4 @@ Welcome to my 100-days journey of learning Rust! This repository documents my da
 | Day | Folder             | Description                                         |
 | --- | ------------------ | --------------------------------------------------- |
 | 1   | [day_01](./day_01) | Installed Rust, ran Hello World, and explored Cargo |
+| 2   | [day_02](./day_02) | Completed Guessing Game Project                     |
