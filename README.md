@@ -4,7 +4,8 @@ Welcome to my 100-days journey of learning Rust! This repository documents my da
 
 ## Progress
 
-| Day | Folder             | Description                                         |
-| --- | ------------------ | --------------------------------------------------- |
-| 1   | [day_01](./day_01) | Installed Rust, ran Hello World, and explored Cargo |
-| 2   | [day_02](./day_02) | Completed Guessing Game Project                     |
+| Day | Folder             | Description                                                                           |
+| --- | ------------------ | ------------------------------------------------------------------------------------- |
+| 1   | [day_01](./day_01) | Installed Rust, ran Hello World, and explored Cargo                                   |
+| 2   | [day_02](./day_02) | Completed Guessing Game Project                                                       |
+| 3   | [day_03](./day_03) | Finished Chap#3 from the book and the first exercise 'temperature conversion' program |
