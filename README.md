@@ -10,3 +10,4 @@ Welcome to my 100-days journey of learning Rust! This repository documents my da
 | 2   | [day_02](./day_02) | Completed Guessing Game Project                                                       |
 | 3   | [day_03](./day_03) | Finished Chap#3 from the book and the first exercise 'temperature conversion' program |
 | 4   | [day_04](./day_04) | Completed the second exercise of Chapter 3: Fibonacci number generation program       |
+| 5   | [day_05](./day_05) | Printed the lyrics of "The Twelve Days of Christmas" carol using loops                |
