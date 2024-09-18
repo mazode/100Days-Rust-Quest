@@ -12,3 +12,4 @@ Welcome to my 100-days journey of learning Rust! This repository documents my da
 | 4   | [day_04](./day_04) | Completed the second exercise of Chapter 3: Fibonacci number generation program       |
 | 5   | [day_05](./day_05) | [Chapter 3 Exercise] - Printed the lyrics to “The Twelve Days of Christmas”           |
 | 6   | [day_06](./day_06) | Completed Chapter 4, focusing on ownership in Rust                                    |
+| 7   | [day_07](./day_07) | Completed Chapter 5, focusing on Structs and Method Syntax                            |
